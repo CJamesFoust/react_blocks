@@ -1,0 +1,7 @@
+.navDiv {
+    flex: 1;
+    background-color: #6fa8dc;
+    border: 3px solid black;
+    margin-right: 20px;
+    height: 600px;
+}
